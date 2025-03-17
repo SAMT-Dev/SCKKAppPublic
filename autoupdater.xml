@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.5.3.5</version>
-    <url>https://github.com/SAMT-Dev/SCKKAppPublic/releases/download/v1.5.3.5/SCKKApp.zip</url>
+    <version>1.6.0.0</version>
+    <url>https://github.com/SAMT-Dev/SCKKAppPublic/releases/download/v1.6.0.0/SCKKApp.zip</url>
     <changelog></changelog>
-    <mandatory minVersion="1.5.3.5">true</mandatory>
+    <mandatory minVersion="1.6.0.0">true</mandatory>
 </item>
